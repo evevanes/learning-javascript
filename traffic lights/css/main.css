@@ -1,0 +1,39 @@
+.container{
+	width: 400px;
+	/*height: 600px;*/
+	/*border: 1px solid #000;*/
+	margin: 20px auto;
+}
+.panel-container{
+	background-color: #000;
+	width: 200px;
+	height: 540px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.box{
+	background-color: #000;
+	width: 50px;
+	height: 200px;
+	margin: 0 auto;
+}
+.circle{
+	width: 160px;
+	height: 160px;
+	background-color: red;
+	margin: 10px auto;
+	border-radius: 50%;
+}
+.red{
+	background-color: red;
+}
+.orange{
+	background-color: orange;
+}
+.green{
+	background-color: green;
+}
+
+.off{
+	background-color: #ccc;
+}
